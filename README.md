@@ -1,4 +1,4 @@
-# Nodejs_CRUD
+# Nodejs CRUD
 Simple Nodejs CRUD with Express,AngularJS and MySQL
 
 This is a simple project of NodeJS crud operations. 
